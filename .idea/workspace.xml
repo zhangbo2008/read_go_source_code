@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="beadd2e9-e75b-47f2-84c7-544eb8c25cb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/awesomeProject1/leetcode/00085/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesomeProject1/structures/skiplist.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesomeProject1/structures/skiplist_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9999999999999999999/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/9999999999999999999/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9999999999999999999/0022.Generate-Parentheses/22. Generate Parentheses.go" beforeDir="false" afterPath="$PROJECT_DIR$/9999999999999999999/0022.Generate-Parentheses/22. Generate Parentheses.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9999999999999999999/0025.Reverse-Nodes-in-k-Group/25. Reverse Nodes in k Group.go" beforeDir="false" afterPath="$PROJECT_DIR$/9999999999999999999/0025.Reverse-Nodes-in-k-Group/25. Reverse Nodes in k Group.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9999999999999999999/0025.Reverse-Nodes-in-k-Group/25. Reverse Nodes in k Group_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/9999999999999999999/0025.Reverse-Nodes-in-k-Group/25. Reverse Nodes in k Group_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9999999999999999999/0027.Remove-Element/27. Remove Element.go" beforeDir="false" afterPath="$PROJECT_DIR$/9999999999999999999/0027.Remove-Element/27. Remove Element.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9999999999999999999/0028.Implement-strStr/28. Implement strStr().go" beforeDir="false" afterPath="$PROJECT_DIR$/9999999999999999999/0028.Implement-strStr/28. Implement strStr().go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9999999999999999999/0032.Longest-Valid-Parentheses/32. Longest Valid Parentheses.go" beforeDir="false" afterPath="$PROJECT_DIR$/9999999999999999999/0032.Longest-Valid-Parentheses/32. Longest Valid Parentheses.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9999999999999999999/0039.Combination-Sum/39. Combination Sum.go" beforeDir="false" afterPath="$PROJECT_DIR$/9999999999999999999/0039.Combination-Sum/39. Combination Sum.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9999999999999999999/0040.Combination-Sum-II/40. Combination Sum II.go" beforeDir="false" afterPath="$PROJECT_DIR$/9999999999999999999/0040.Combination-Sum-II/40. Combination Sum II.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9999999999999999999/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/9999999999999999999/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/awesomeProject1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject1/leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/awesomeProject1/leetcode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject1/leetcode/0004.Median-of-Two-Sorted-Arrays/4. Median of Two Sorted Arrays.go" beforeDir="false" afterPath="$PROJECT_DIR$/awesomeProject1/leetcode/leetcode4/4. Median of Two Sorted Arrays.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject1/leetcode/0004.Median-of-Two-Sorted-Arrays/4. Median of Two Sorted Arrays_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/awesomeProject1/leetcode/leetcode4/4. Median of Two Sorted Arrays_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject1/leetcode/0004.Median-of-Two-Sorted-Arrays/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/awesomeProject1/leetcode/leetcode4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject1/leetcode/0021.Merge-Two-Sorted-Lists/21. Merge Two Sorted Lists_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/awesomeProject1/leetcode/0021.Merge-Two-Sorted-Lists/21. Merge Two Sorted Lists_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject1/leetcode/0084.Largest-Rectangle-in-Histogram/84. Largest Rectangle in Histogram.go" beforeDir="false" afterPath="$PROJECT_DIR$/awesomeProject1/leetcode/0084.Largest-Rectangle-in-Histogram/84. Largest Rectangle in Histogram.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Users\Administrator\go1.16" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Users\Administrator\go1.16\src\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="2APOPDcR0Bgk4RXVaDgoPE6o2j3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build time/tzdata" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/time/tzdata/generate_zipdata.go" />
+      <package value="time/tzdata" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestZoneData in time" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$/time" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="time" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestZoneData$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="digit_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$/unicode" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/unicode/digit_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sleep_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$/time" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/time/sleep_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.TestZoneData in time" />
+        <item itemvalue="Go Test.sleep_test.go" />
+        <item itemvalue="Go Build.go build time/tzdata" />
+        <item itemvalue="Go Test.digit_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="627" height="466" key="DebuggerActiveHint" timestamp="1655042337397">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="627" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1655042337397" />
+    <state width="1280" height="94" key="GridCell.Tab.0.bottom" timestamp="1655084220322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="124" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1654954438004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="124" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1654954438004" />
+    <state width="1280" height="94" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1655084220322" />
+    <state width="1280" height="94" key="GridCell.Tab.0.center" timestamp="1655084220322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="124" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1654954438004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="124" key="GridCell.Tab.0.center.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1654954438004" />
+    <state width="1280" height="94" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1655084220322" />
+    <state width="1280" height="94" key="GridCell.Tab.0.left" timestamp="1655084220322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="124" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1654954438004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="124" key="GridCell.Tab.0.left.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1654954438004" />
+    <state width="1280" height="94" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1655084220322" />
+    <state width="1280" height="94" key="GridCell.Tab.0.right" timestamp="1655084220322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="124" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1654954438004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="124" key="GridCell.Tab.0.right.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1654954438004" />
+    <state width="1280" height="94" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1655084220322" />
+    <state width="1281" height="232" key="GridCell.Tab.1.bottom" timestamp="1655042341573">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="232" key="GridCell.Tab.1.bottom.inPresentationMode" timestamp="1654952649007">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="232" key="GridCell.Tab.1.bottom.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1654952649007" />
+    <state width="1281" height="232" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1655042341573" />
+    <state width="1281" height="232" key="GridCell.Tab.1.center" timestamp="1655042341572">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="232" key="GridCell.Tab.1.center.inPresentationMode" timestamp="1654952649007">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="232" key="GridCell.Tab.1.center.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1654952649007" />
+    <state width="1281" height="232" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1655042341572" />
+    <state width="1281" height="232" key="GridCell.Tab.1.left" timestamp="1655042341572">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="232" key="GridCell.Tab.1.left.inPresentationMode" timestamp="1654952649007">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="232" key="GridCell.Tab.1.left.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1654952649007" />
+    <state width="1281" height="232" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1655042341572" />
+    <state width="1281" height="232" key="GridCell.Tab.1.right" timestamp="1655042341572">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="232" key="GridCell.Tab.1.right.inPresentationMode" timestamp="1654952649007">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1280" height="232" key="GridCell.Tab.1.right.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1654952649007" />
+    <state width="1281" height="232" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1655042341572" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1655082548336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1655082548336" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1654941021443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1654941021443" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/time/time_test.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
